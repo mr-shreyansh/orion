@@ -1,0 +1,49 @@
+{
+    "blogs": [
+      {
+        "image": "/cyber.png",
+        "title": "Cyber Security: Why is it more important than ever?",
+        "description": "Cyber security is the practice of defending computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks.",
+        "date": "2021-10-10",
+        "author": "Siddharth",
+        "slug": "cyber-security",
+        "tags": ["cyber", "security"]
+      },
+      {
+        "image": "/greenearth.png",
+        "title": "Green Earth: How can we achive it within the next 20 years?",
+        "description": "Green Earth is about promoting environmental sustainability.",
+        "date": "2021-10-11",
+        "author": "Siddharth",
+        "slug": "green-earth",
+        "tags": ["green", "earth"]
+      },
+      {
+        "image": "/travel.png",
+        "title": "Travel",
+        "description": "Travel is about exploring new places and cultures. The best places to travel are the ones that are not very popular. In this blog, I will be sharing some of the lesser known places that I have visited. These places are not very popular but are very beautiful. I hope you enjoy reading this blog.Other lesser-known places in India include:<br>Hemis, Leh<br>Chakrata, Uttarakhand<br>Khimsar Village, Rajasthan<br>Tawang, Arunachal Pradesh<br>Valparai, Tamil Nadu<br>Shoja, Himachal Pradesh<br>Moodbidri, Karnataka<br>Some reasons to visit less-visited places include:<br>They're less crowded.<br>They offer unique sights, activities, and foods.<br></p> ",
+        "date": "2021-10-12",
+        "author": "Siddharth",
+        "slug": "travel",
+        "tags": ["travel", "exploration"]
+      },
+      {
+        "image": "/wondors.jpg",
+        "title": "Wonders",
+        "description": "Wonders is about the wonders of the world.",
+        "date": "2021-10-13",
+        "author": "Siddharth",
+        "slug": "wonders",
+        "tags": ["wonders", "world"]
+      },
+      {
+        "image": "/globalwarming.png",
+        "title": "Global Warming",
+        "description": "Global warming is a long-term heating of Earth's climate system observed since the pre-industrial period due to human activities, primarily fossil fuel burning, which increases heat-trapping greenhouse gas levels in Earth's atmosphere.",
+        "date": "2021-10-14",
+        "author": "Siddharth",
+        "slug": "global-warming",
+        "tags": ["global warming", "climate change"]
+      }
+    ]
+  }
